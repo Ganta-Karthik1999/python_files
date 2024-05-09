@@ -1,1 +1,0 @@
-These are the programs the contains programs on socket programming
